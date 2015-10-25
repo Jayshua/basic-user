@@ -1,0 +1,17 @@
+{
+  "name": "basic-user",
+  "version": "1.0.0",
+  "description": "Really Super Basic Users",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayshua Nelson",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3"
+  }
+}
