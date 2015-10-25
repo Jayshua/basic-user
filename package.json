@@ -12,6 +12,7 @@
   "author": "Jayshua Nelson",
   "license": "MIT",
   "repository": "https://github.com/Jayshua/basic-user",
+  "keywords": ["users", "user", "library", "simple", "basic", "small", "tiny"],
   "dependencies": {
     "bcrypt-nodejs": "0.0.3"
   }
